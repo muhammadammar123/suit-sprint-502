@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Suit Sprint 502",
+    "slug": "suit-sprint-502",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#101B29",
+    "android": { "package": "com.suitsprint.game502" },
+    "ios": { "bundleIdentifier": "com.suitsprint.game502" },
+    "web": { "name": "Suit Sprint 502" }
+  }
+}
